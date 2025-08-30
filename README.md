@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction - Minor Project  
+## 📈 Stock Price Prediction - Minor Project  
 
 🚀 This project predicts stock prices using **historical data** and a trained **Deep Learning (LSTM) model**.  
     It is implemented with **Streamlit** to provide an interactive and user-friendly web interface.  
@@ -6,7 +6,7 @@
 🔗 **Live Demo**:
 ---
 
-## 📖 About the Project  
+### 📖 About the Project  
 
 - 📊 Uses **historical stock data** (Yahoo Finance API)  
 - 📉 Implements **Moving Averages (50, 100, 200 days)** for stock trend visualization  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+### 🛠 Tech Stack  
 
 - **Python**  
 - **Pandas, NumPy** → Data Processing  
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 How to Run Locally  
+### 🚀 How to Run Locally  
 
 1. **Clone the repository:**  
    ```bash
