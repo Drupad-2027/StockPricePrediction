@@ -3,8 +3,8 @@
 🚀 This project predicts stock prices using **historical data** and a trained **Deep Learning (LSTM) model**.  
     It is implemented with **Streamlit** to provide an interactive and user-friendly web interface.  
 
-🔗 **Live Demo**:
----
+🔗 **Live Demo**: Coming soon! 🚧
+
 
 ### 📖 About the Project  
 
